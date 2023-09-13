@@ -3,4 +3,4 @@ The RISC-V UDL (User-Defined Language) is a file for Notepad++ to allow syntax-h
 
 [Download](https://raw.githubusercontent.com/aidan-d123/riscv_npp/main/RISCV-Light_byAidanDempsey) the file.
 
-Or learn [how to use](https://npp-user-manual.org/docs/user-defined-language-system/#import-a-udl) it.
+Or learn [how to use](https://raw.githubusercontent.com/notepad-plus-plus/userDefinedLanguages/master/UDLs/RISCV-Light_byAidanDempsey.xml) it.
