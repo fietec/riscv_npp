@@ -1,6 +1,6 @@
 # riscv_npp Material mode
 The RISC-V UDL (User-Defined Language) is a file for Notepad++ to allow syntax-highlighting for RISC-V assembly language.
-This is a fork from [riscv_npp by Aidan Dempsey](https://github.com/aidandempsey/riscv_npp) implementing a mode for the [Material](https://github.com/Codextor/npp-material-theme?tab=readme-ov-file) theme.
+This is a fork of [riscv_npp by Aidan Dempsey](https://github.com/aidandempsey/riscv_npp) implementing a mode for the [Material](https://github.com/Codextor/npp-material-theme?tab=readme-ov-file) theme.
 
 ---
 
